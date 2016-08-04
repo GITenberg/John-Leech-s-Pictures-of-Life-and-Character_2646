@@ -1,0 +1,33 @@
+_repo: John-Leech-s-Pictures-of-Life-and-Character_2646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: William Makepeace Thackeray's ""John Lecch's Pictures of Life and Characters""
+  focuses around his opinions of the works of English caricaturist and illustrator,
+  John Leech (29 August 1817 - 29 October 1864).
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Caricatures and
+  cartoons'
+- !lcsh 'English wit and humor, Pictorial'
+- !lcsh 'Leech, John, 1817-1864'
+- GITenberg
+title: John Leech's Pictures of Life and Character
+url: http://www.gutenberg.org/ebooks/2646
