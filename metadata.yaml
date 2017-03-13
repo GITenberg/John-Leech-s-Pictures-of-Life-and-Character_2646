@@ -1,5 +1,8 @@
 _repo: John-Leech-s-Pictures-of-Life-and-Character_2646
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -14,6 +17,8 @@ creator:
 description: William Makepeace Thackeray's ""John Lecch's Pictures of Life and Characters""
   focuses around his opinions of the works of English caricaturist and illustrator,
   John Leech (29 August 1817 - 29 October 1864).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2646#John-Leech-s-Pictures-of-Life-and-Character
 gutenberg_issued: '2006-05-22'
 gutenberg_type: Text
 identifiers:
